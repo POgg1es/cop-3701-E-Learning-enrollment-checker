@@ -9,4 +9,6 @@ Predictive Analytics: Implement stored procedures or logic to flag students at h
 
 Reporting: Create indexed views to provide instant performance snapshots for instructors (e.g., average completion time per course).
 
-based on a Kaggle dataset
+based on a Kaggle dataset, "Open University Learning Analytics Dataset" by Roxanne Russell.
+
+somethings i think will be unique about this will be the individual cases per student, and also how hard a course is based on how many students actually drop the class.
