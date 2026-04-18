@@ -1,0 +1,121 @@
+id_student,gender,region,highest_education,imd_band,age_band,final_result
+1,F,North,Master,High,35-55,Distinction
+2,F,West,Master,High,35-55,Pass
+3,F,East,Master,High,55+,Distinction
+4,F,South,Master,Medium,35-55,Pass
+5,F,South,Bachelor,Low,0-35,Pass
+6,F,West,Master,Low,0-35,Pass
+7,M,West,Bachelor,Low,55+,Distinction
+8,M,South,Bachelor,Medium,35-55,Pass
+9,F,West,Master,High,0-35,Distinction
+10,M,West,Master,Low,0-35,Pass
+11,F,West,Master,Medium,0-35,Pass
+12,F,West,Master,High,55+,Pass
+13,M,West,Bachelor,Medium,35-55,Distinction
+14,M,East,Master,Low,35-55,Pass
+15,M,East,Bachelor,High,35-55,Fail
+16,F,North,High School,High,0-35,Pass
+17,M,West,Master,Low,0-35,Distinction
+18,M,East,High School,Low,55+,Fail
+19,F,North,Bachelor,Low,0-35,Pass
+20,M,West,High School,Medium,0-35,Distinction
+21,M,East,High School,Low,0-35,Fail
+22,F,West,High School,Low,55+,Fail
+23,F,North,Master,Low,35-55,Fail
+24,F,West,High School,High,55+,Pass
+25,M,North,High School,Low,0-35,Fail
+26,M,South,High School,High,55+,Distinction
+27,M,West,Master,Low,35-55,Fail
+28,F,East,Master,High,35-55,Pass
+29,F,South,Master,Medium,0-35,Distinction
+30,M,West,Master,Medium,35-55,Fail
+31,F,North,Bachelor,High,35-55,Pass
+32,M,South,Master,Low,35-55,Distinction
+33,M,West,Bachelor,Low,0-35,Pass
+34,M,East,Bachelor,High,35-55,Pass
+35,F,South,High School,Medium,35-55,Distinction
+36,F,West,Bachelor,Medium,0-35,Fail
+37,M,North,High School,Medium,0-35,Distinction
+38,M,North,High School,Medium,55+,Fail
+39,M,South,High School,High,0-35,Pass
+40,F,East,Bachelor,Medium,35-55,Fail
+41,M,North,Bachelor,Low,55+,Pass
+42,F,South,Master,Medium,0-35,Fail
+43,F,West,Master,High,55+,Fail
+44,M,East,High School,Low,0-35,Fail
+45,M,South,High School,High,0-35,Distinction
+46,F,West,Bachelor,Medium,55+,Distinction
+47,F,North,High School,Low,55+,Fail
+48,F,West,Master,High,55+,Distinction
+49,F,West,High School,Medium,35-55,Fail
+50,F,West,High School,Low,35-55,Fail
+51,F,East,Master,High,35-55,Pass
+52,M,North,High School,Low,55+,Fail
+53,M,West,Master,High,55+,Distinction
+54,M,South,Master,Medium,0-35,Fail
+55,F,North,High School,High,55+,Fail
+56,M,East,Master,High,0-35,Distinction
+57,M,North,High School,High,35-55,Pass
+58,M,North,High School,Medium,35-55,Pass
+59,F,East,High School,High,55+,Fail
+60,M,East,High School,High,35-55,Fail
+61,F,South,High School,Low,0-35,Fail
+62,M,West,Master,Medium,35-55,Pass
+63,F,South,Master,High,35-55,Fail
+64,M,West,High School,Medium,35-55,Distinction
+65,F,South,High School,Medium,35-55,Fail
+66,F,North,Master,Low,0-35,Fail
+67,M,South,Bachelor,Medium,0-35,Distinction
+68,M,West,Master,Medium,35-55,Pass
+69,F,North,High School,Low,0-35,Pass
+70,M,West,High School,Low,35-55,Fail
+71,M,East,High School,Low,55+,Pass
+72,F,East,Bachelor,Medium,35-55,Distinction
+73,M,North,Master,High,35-55,Pass
+74,F,East,Master,Low,55+,Distinction
+75,F,North,High School,Medium,0-35,Distinction
+76,F,North,High School,Medium,0-35,Distinction
+77,M,East,High School,Medium,0-35,Pass
+78,M,East,Bachelor,Medium,35-55,Fail
+79,M,East,High School,Low,35-55,Distinction
+80,F,East,High School,Medium,55+,Distinction
+81,F,South,Bachelor,High,55+,Distinction
+82,M,North,Bachelor,Medium,55+,Fail
+83,F,West,High School,Low,55+,Fail
+84,M,North,Bachelor,Medium,55+,Pass
+85,M,North,Bachelor,Medium,55+,Fail
+86,M,North,High School,Low,55+,Pass
+87,M,West,Master,High,0-35,Pass
+88,M,South,High School,High,55+,Fail
+89,M,South,Master,Medium,35-55,Distinction
+90,M,East,High School,Medium,35-55,Distinction
+91,F,East,Bachelor,Medium,55+,Pass
+92,M,South,High School,Medium,35-55,Distinction
+93,M,East,High School,High,0-35,Pass
+94,F,West,Bachelor,Low,55+,Distinction
+95,F,South,Master,High,35-55,Fail
+96,M,West,Bachelor,Low,35-55,Fail
+97,M,East,High School,Medium,55+,Distinction
+98,M,West,High School,Medium,0-35,Fail
+99,M,North,Master,Medium,0-35,Distinction
+100,M,North,High School,High,35-55,Fail
+101,M,West,Bachelor,High,0-35,Distinction
+102,M,West,Bachelor,Low,35-55,Fail
+103,F,West,High School,High,35-55,Distinction
+104,M,North,Bachelor,High,35-55,Distinction
+105,F,West,Bachelor,Medium,35-55,Pass
+106,M,East,Bachelor,Low,0-35,Pass
+107,M,South,Master,High,35-55,Fail
+108,F,West,Master,Medium,55+,Distinction
+109,F,East,Bachelor,Low,0-35,Distinction
+110,F,South,Bachelor,High,0-35,Distinction
+111,F,North,Bachelor,High,0-35,Fail
+112,M,East,Master,Medium,0-35,Pass
+113,M,South,Master,Low,55+,Pass
+114,M,South,Master,High,35-55,Pass
+115,M,West,Bachelor,High,0-35,Distinction
+116,M,South,High School,Medium,0-35,Fail
+117,F,South,Master,Low,55+,Fail
+118,F,East,High School,Low,35-55,Distinction
+119,M,North,Bachelor,High,0-35,Fail
+120,M,North,Bachelor,High,55+,Pass
